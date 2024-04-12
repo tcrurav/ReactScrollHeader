@@ -1,0 +1,11 @@
+.long-content-wrapper {
+  height: 200vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.long-content-wrapper>div {
+  margin-top: calc(50vh - 1em / 2);
+}

@@ -1,0 +1,15 @@
+.header-wrapper {
+  width: 100vw;
+  height: 4rem;
+  border-bottom: 1px solid black;
+  position: fixed;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-dark {
+  background-color: black;
+  color: white;
+}
